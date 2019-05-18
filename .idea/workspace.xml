@@ -1,7 +1,444 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e768de7a-33ff-46bd-9309-fcfca2cdf7c7" name="Default Changelist" comment="" />
+    <list default="true" id="e768de7a-33ff-46bd-9309-fcfca2cdf7c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102280000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102282000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102284000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102286000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102288000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102290000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102290000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102292000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102294000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/.checkpoint-1558102296000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-74/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/086201f0-b14c-4f2b-a44d-4239c6667c90/rdd-88/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-260/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/118e89ea-9b3c-471c-9b20-9d43250bcebd/rdd-327/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-264/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/310f4dde-9680-4d3b-8570-b0935dc7cf17/rdd-278/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-128/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/44be173d-6fa9-4c04-b2a9-3af154477898/rdd-60/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/460250d9-7ed8-4a9c-a681-793c3e2f71b9/rdd-7/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-480/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/51920b95-08a3-40d7-857a-ccc9aa136d22/rdd-558/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/7490c289-eccf-4f29-bcfd-40f2ebb06e86/rdd-62/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/74da50aa-495e-446e-9080-17cd063e3eab/rdd-7/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-140/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-206/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/813de0a8-845b-4e73-98eb-daffded18bd5/rdd-284/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/81f27892-850f-4549-8087-e4e5299e09b2/rdd-7/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/8fc19057-d17e-40f7-bc39-f12bc663cc8f/rdd-7/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/96a81616-d8a9-4e45-8370-27a170b3ebb1/rdd-59/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/9832f3b0-83a3-4194-810a-afc4065fad1c/rdd-7/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-127/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a1aff43d-169c-451c-8e7b-2d06aed33af4/rdd-62/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-129/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-129/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a3ba81a5-65da-4882-82e3-bf0afb91b741/rdd-62/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-142/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/a7559bbf-d0d6-49f7-8136-b3b14d8873a3/rdd-170/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6287/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/b85453d3-df34-4cef-a198-c97b79b471a8/rdd-6365/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c03181cb-a52e-4532-86d6-ad48f2dff88a/rdd-62/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-196/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/c1d464fa-025a-4b65-aba4-b3bbc3fcb421/rdd-270/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-128/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cd52f1fa-fb13-463b-9e85-db23bb4bbfe7/rdd-195/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1229/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/cfffd8b6-140e-4060-b191-80b7672c0bd9/rdd-1295/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102280000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102282000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102284000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102286000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102288000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102290000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102290000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102292000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102294000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/checkpoint-1558102296000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-128/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/d69f6b71-35f6-4f1e-8b7a-8141fb970306/rdd-195/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-461/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/e649f079-3724-4bcf-bd73-6518de5032d0/rdd-527/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-166/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/ea7169b3-fbe8-4092-a0c8-8117dc7a4a62/rdd-194/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101688014-1558101748014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101748203-1558101808203" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101808402-1558101868402" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101868601-1558101928601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101928801-1558101988801" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558101989000-1558102049000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558102049201-1558102109201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558102109202-1558102169202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558102169401-1558102229401" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558102229601-1558102289601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558102290031-1558102350031" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558106243570-1558106303570" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint_TwitterApp/receivedBlockMetadata/log-1558106303622-1558106363622" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +450,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -22,11 +459,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/AlertTweets/AlertTwitter.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -116,6 +571,7 @@
         <option value="$PROJECT_DIR$/StreamingTweetsClient.py" />
         <option value="$PROJECT_DIR$/StreamingSparkParser.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -131,6 +587,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,7 +599,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,11 +648,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26488096" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26488096" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.38297874" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.38297874" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -322,13 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="46" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/AlertTweets/AlertTwitter.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -493,20 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extractedtags.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StreamingSparkParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -527,9 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Queries/CountryDataCleaner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -540,10 +973,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extractedtags.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/AlertTweets/AlertTwitter.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="119">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -553,7 +1007,14 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
